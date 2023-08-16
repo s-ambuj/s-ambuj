@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ambuj Singh</h1>
 <h3 align="center">A newbie with some crazy stuff</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-ambuj&label=Profile%20views&color=0e75b6&style=flat" alt="s-ambuj" /> </p>
-
 
 - 📚 I’m currently studying **Computer Science Engineering at Vellore Institute of Technology, Chennai**
 
