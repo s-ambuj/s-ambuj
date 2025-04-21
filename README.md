@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, C programming, games**
 
-- 📫 How to reach me **ambujs@proton.me**
+- 📫 How to reach me **ambujsingh026@gmail.com**
 
 - ⚡ Fun fact **I am a National level Martial Artist**
 
