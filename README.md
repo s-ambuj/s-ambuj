@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **about Java, Web Development, IOT**
 
-- 💬 Ask me about **Python, C programming, games**
+- 💬 Ask me about **Python, C++ programming, games**
 
 - 📫 How to reach me **ambujsingh026@gmail.com**
 
