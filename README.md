@@ -4,7 +4,7 @@
 
 - 📚 I’m currently studying **Computer Science Engineering at Vellore Institute of Technology, Chennai**
 
-- 🌱 I’m currently learning **about Java, Web Development, IOT**
+- 🌱 I’m currently learning **about Python, C++, Web Development**
 
 - 💬 Ask me about **Python, C++ programming, games**
 
