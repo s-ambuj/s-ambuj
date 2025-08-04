@@ -7,7 +7,7 @@
 💻 &nbsp;I'm proficient in the **MERN stack** and **Python**, with a growing interest in backend systems and scalable architecture.\
 🧠 &nbsp;I’ve solved **200+ problems on LeetCode** and hold a **5 kyu rank on Codewars**.\
 🛠️ &nbsp;Currently exploring authentication, secure payments, and efficient API design.\
-📫 &nbsp;Feel free to connect or drop an email at **ambujsingh026@gmail.com** – happy to collaborate or help!\
+📫 &nbsp;Feel free to connect or drop an email at **ambujsingh026@gmail.com** – happy to collaborate or help!
 
 ---
 
